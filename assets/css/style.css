@@ -1,3 +1,40 @@
-#title  {
-    text-align: center;
+body {
+    background-image: url("../images/background.jpg");
 }
+
+#header  {
+    text-align: center;
+    background-color: black;  
+}
+
+#title {
+    font-family: cursive;
+    font-size: 50px;
+    color: white;
+}
+
+#gifArea {
+	margin-top:20px;
+}
+
+label {
+    font-family: cursive;
+    color: white;
+}
+
+.submit {
+    font-family: cursive;
+    background-color: black;
+	color: white;
+	border: 1px solid #646464;
+}
+
+#buttonArea {
+    margin-top: 10px;
+    font-family: cursive; 
+}
+
+.btn {
+    margin: 2px;
+}
+
