@@ -1,4 +1,4 @@
-<h1> GifTastic <h1>
+<h1> GifTastic </h1>
 
 Link to deployed site: https://tbiehl22.github.io/gifTastic/
 
