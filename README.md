@@ -2,6 +2,8 @@
 
 Link to deployed site: https://tbiehl22.github.io/gifTastic/
 
+![img](assets/images/giftastic.png)
+
 Use the GIPHY API to make a dynamic web page that populates with gifs of your choice. To finish this task, you must call the GIPHY API and use JavaScript and jQuery to change the HTML of your site.
 
 Before you can make any part of the site work, you need to create an array of strings, each one related to a topic that interests you. 
